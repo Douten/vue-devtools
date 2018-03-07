@@ -1,6 +1,6 @@
 #### Workaround to get **vue-devtools** in Safari.
 
-1. Clone this repo
+1. Clone this repo then cd into it.
 2. `npm install` (Or `yarn install` if you are using yarn as the package manager)
 3. `npm run build:safari`
 4. Open Safari preferences -> Advanced -> Show Develop menu in menu bar
